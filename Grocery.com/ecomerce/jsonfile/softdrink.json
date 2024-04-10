@@ -1,0 +1,126 @@
+[
+   
+    
+   
+  
+    {
+        "id":153,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"catgeory-section",
+        "image":"http://localhost:8000/image2/ma1.webp",
+        "name":"Masala"
+       
+    },
+    {
+        "id":154,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Masala",
+        "image":"http://localhost:8000/image2/ma2.webp",
+        "name":"Everest Kashmiri Lal Chilli Powder",
+        "quantity":"500 g",
+        "price": 621,
+        "cutprice": 750
+    },
+    {
+        "id":155,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Masala",
+        "image":"http://localhost:8000/image2/ma3.webp",
+        "name":"Everest Black Pepper Powder",
+        "quantity":"500 g",
+        "price": 621,
+        "cutprice": 750
+    },
+    {
+        "id":156,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Masala",
+        "image":"http://localhost:8000/image2/ma4.webp",
+        "name":"Catch Jeera Whole",
+        "quantity":"100 g",
+        "price": 71,
+        "cutprice": 80
+    },
+    {
+        "id":157,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Masala",
+        "image":"http://localhost:8000/image2/ma5.webp",
+        "name":"Catch Turmeric Powder",
+        "quantity":"100 g",
+        "price": 71,
+        "cutprice": 80
+    },
+    {
+        "id":158,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Masala",
+        "image":"http://localhost:8000/image2/ma6.webp",
+        "name":"Tata Sampann Spices Chilli Powder Masala",
+        "quantity":"100 g",
+        "price": 66,
+        "cutprice": 70
+    },
+    {
+        "id":159,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"catgeory-section",
+        "image":"http://localhost:8000/image2/sa1.webp",
+        "name":"Salt"
+       
+    },
+    {
+        "id":160,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Salt",
+        "image":"http://localhost:8000/image2/ma6.webp",
+        "name":"Tata Salt",
+        "quantity":"1 kg",
+        "price": 26,
+        "cutprice": 30
+    },
+    {
+        "id":161,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"catgeory-section",
+        "image":"http://localhost:8000/image2/o1.webp",
+        "name":"Oil"
+       
+    },
+    {
+        "id":162,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Oil",
+        "image":"http://localhost:8000/image2/o1.webp",
+        "name":"Fortune Sunlite Refined Sunflower Oil (Jar)",
+        "quantity":"5L",
+        "price": 626,
+        "cutprice": 730
+       
+    },
+    {
+        "id":163,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Oil",
+        "image":"http://localhost:8000/image2/o2.webp",
+        "name":"Tata Simply Cold Pressed Groundnut/ Peanut Oil",
+        "quantity":"1L",
+        "price": 326,
+        "cutprice": 430
+       
+    },
+    {
+        "id":164,
+        "catgeory":"Masala&Oil",
+        "subcatgeory":"Oil",
+        "image":"http://localhost:8000/image2/o3.webp",
+        "name":"Anveshan Wood Cold Pressed Coconut Oil (Bottle)",
+        "quantity":"500 ml",
+        "price": 226,
+        "cutprice": 310
+       
+    }
+
+    
+    
+]

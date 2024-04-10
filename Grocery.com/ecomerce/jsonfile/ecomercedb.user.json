@@ -1,0 +1,375 @@
+[
+
+
+{
+  
+  "id": 13,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/softd1.webp",
+  "name": "Thums Up Soft Drink Combo",
+  "quantity": "750ml X 2",
+  "price": 72,
+  "cutprice": 80
+},
+{
+ 
+  "id": 14,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft2.webp",
+  "name": "Sprite Soft Drink 300 ml Combo",
+  "quantity": "300ml X 3",
+  "price": 108,
+  "cutprice": 120
+},
+{
+  
+  "id": 15,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft3.webp",
+  "name": "Pepsi Black Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 35,
+  "cutprice": 40
+},
+{
+  "id": 16,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft4.webp",
+  "name": "Mirinda Orange Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 35,
+  "cutprice": 40
+},
+{
+  "id": 17,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft5.webp",
+  "name": "Diet Coke (Can) Combo",
+  "quantity": "300ml X 3",
+  "price": 120,
+  "cutprice": 140
+},
+{
+  "id": 18,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft6.webp",
+  "name": "7 Up Lemon Soft Drink Can",
+  "quantity": "250 ml",
+  "price": 40,
+  "cutprice": 45
+},
+{
+  "id": 19,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft7.webp",
+  "name": "Coca-Cola Soft Drink 750 ml Combo",
+  "quantity": "750ml X 3",
+  "price": 120,
+  "cutprice": 130
+},
+{
+  "id": 20,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft8.webp",
+  "name": "Fanta Orange Flavoured Soft Drink",
+  "quantity": "750ml",
+  "price": 40,
+  "cutprice": 50
+},
+{
+  "id": 21,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft9.webp",
+  "name": "Frooti Juice - Mango Bottle",
+  "quantity": "600ml",
+  "price": 40,
+  "cutprice": 50
+},
+{
+  "id": 22,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft10.webp",
+  "name": "Paper Boat Lichi Juice",
+  "quantity": "600 ml",
+  "price": 38,
+  "cutprice": 40
+},
+{
+  "id": 23,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft11.webp",
+  "name": "Appy Fizz Apple Juice Based Drink",
+  "quantity": "600ml ",
+  "price": 33,
+  "cutprice": 35
+},
+{
+  "id": 24,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft12.webp",
+  "name": "Sting Energy Drink Pet",
+  "quantity": "250 ml",
+  "price": 20,
+  "cutprice": 40
+},
+{
+  
+  "id": 25,
+  "catgeory": "Drinks",
+  "subcatgeory":"Soft Drinks",
+  "image": "http://localhost:8000/image2/soft13.webp",
+  "name": "Red Bull Energy Drink Multican",
+  "quantity": "4 X 250 ml",
+  "price": 447,
+  "cutprice": 480
+},
+{
+  "id": 26,
+  "catgeory": "Drinks",
+   "subcatgeory":"catgeory-section",
+  "image": "http://localhost:8000/image2/cat_soft.webp",
+  "name": "Soft Drinks"
+},
+{
+ 
+  "id": 27,
+  "catgeory": "Drinks",
+  "subcatgeory":"catgeory-section",
+  "image": "http://localhost:8000/image2/fruit_drink.webp",
+  "name": "Fruit Juices"
+},
+{
+  "id": 28,
+  "catgeory": "Drinks",
+  "subcatgeory":"catgeory-section",
+  "image": "http://localhost:8000/image2/water.webp",
+  "name": "Water"
+},
+{
+  "id": 29,
+  "catgeory": "Drinks",
+  "subcatgeory":"catgeory-section",
+  "image": "http://localhost:8000/image2/energydrink.webp",
+  "name": "Energy Drink"
+},
+{
+  "id": 30,
+  "catgeory": "Drinks",
+  "subcatgeory":"catgeory-section",
+  "image": "http://localhost:8000/image2/herbal.webp",
+  "name": "Herbal Drink"
+},
+{
+  "id": 31,
+  "catgeory": "Drinks",
+  "subcatgeory":"catgeory-section",
+  "image": "http://localhost:8000/image2/coco.webp",
+  "name": "Coconut Water"
+},
+
+
+{
+  
+  "id": 33,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice1.webp",
+  "name": "Real Masala Mixed Fruit Juice 1 l Combo",
+  "quantity": "1L X 2",
+  "price": 120,
+  "cutprice": 150
+},
+{
+  "id": 34,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice2.webp",
+  "name": "B Natural Litchi Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+ 
+  "id": 35,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice3.webp",
+  "name": "B Natual Cranberry Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+  "id": 36,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice4.webp",
+  "name": "Real Fruit Power Cranberry Juice Tetrapack",
+  "quantity": "1L",
+  "price": 123,
+  "cutprice": 140
+},
+{
+  "id": 37,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice5.webp",
+  "name": "B Natual Mixed Juice Tetrapack",
+  "quantity": "1L",
+  "price": 121,
+  "cutprice": 140
+},
+{
+  "id": 38,
+  "catgeory": "Drinks",
+  "subcatgeory": "Fruit Juices",
+  "image": "http://localhost:8000/image2/fruitjuice6.webp",
+  "name": "Tropicana 100% Mixed Fruit Juice Tetrapack",
+  "quantity": "1L",
+  "price": 101,
+  "cutprice": 125
+},
+
+{
+ 
+  "id": 39,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water1.webp",
+  "name": "O'cean Mango & Passion Fruit Water",
+  "quantity": "500ml",
+  "price": 57,
+  "cutprice": 60
+},
+{
+ 
+  "id": 40,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water2.webp",
+  "name": "Evocus Alkaline Black Water Pet",
+  "quantity": "500ml",
+  "price": 100,
+  "cutprice": 120
+},
+{
+  "id": 41,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water3.webp",
+  "name": "Bisleri Mineral Water Bottle 5 l Combo",
+  "quantity": "5L X 3",
+  "price": 210,
+  "cutprice": 220
+},
+{
+  "id": 42,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water4.webp",
+  "name": "Aquafina Drinking Water Combo",
+  "quantity": "1L X 6",
+  "price": 120,
+  "cutprice": 130
+},
+{
+  
+  "id": 43,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water5.webp",
+  "name": "Evocus Alkaline Mineral Water Pet",
+  "quantity": "500ml",
+  "price": 80,
+  "cutprice": 100
+},
+{
+  "id": 44,
+  "catgeory": "Drinks",
+  "subcatgeory": "Water",
+  "image": "http://localhost:8000/image2/water6.webp",
+  "name": "Bisleri Packaged Drinking Water",
+  "quantity": "2l",
+  "price": 30,
+  "cutprice": 40
+},
+{
+ 
+  "id": 45,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink1.webp",
+  "name": "Red Bull Energy Drink The Winter Pomegranate Can",
+  "quantity": "250ml",
+  "price": 125,
+  "cutprice": 140
+},
+{
+ 
+  "id": 46,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink2.webp",
+  "name": "Red Bull Energy Drink Can",
+  "quantity": "250ml",
+  "price": 125,
+  "cutprice": 140
+},
+{
+ 
+  "id": 47,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink3.webp",
+  "name": "Sting Combo",
+  "quantity": "250ml X 2",
+  "price": 60,
+  "cutprice": 70
+},
+{
+ 
+  "id": 48,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink4.webp",
+  "name": "Monster Energy Drink Can",
+  "quantity": "350",
+  "price": 110,
+  "cutprice": 125
+},
+{
+  
+  "id": 49,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink5.webp",
+  "name": "Red Bull Energy Drink Sugar Free 250 ml Combo",
+  "quantity": "250 X 4",
+  "price": 410,
+  "cutprice": 500
+},
+{
+ 
+  "id": 50,
+  "catgeory": "Drinks",
+  "subcatgeory": "Energy Drink",
+  "image": "http://localhost:8000/image2/energydrink6.webp",
+  "name": "Hell Energy Drink - Classic 250 ml Combo",
+  "quantity": "250 X 4",
+  "price": 240,
+  "cutprice": 300
+}
+]
